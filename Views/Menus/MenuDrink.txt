@@ -1,0 +1,10 @@
+Pepsi Max, 5.5
+Pepsi, 5
+7UP, 5
+Mountain Dew, 5
+Solo, 6
+Sunkist No Sugar, 5
+Bottled Water, 4
+Sparkling Water, 4
+Orange Juice, 5
+Lipton Ice Tea, 5
